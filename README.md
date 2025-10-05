@@ -1,3 +1,3 @@
 # dream
-This is my first Git Repository
+This is my first Git Repository.
 Author - Sivashalini.S
